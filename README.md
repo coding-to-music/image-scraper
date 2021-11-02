@@ -4,7 +4,7 @@ This is a lightweight api deployed to [Cloudflare Workers](https://workers.cloud
 
 [Website →](https://web.coding-to-music.workers.dev)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/coding-to-music/image-scraper.workers.dev)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/image-scraper.coding-to-music.workers.dev)
 
 ## Usage
 ```
