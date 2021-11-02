@@ -1,4 +1,4 @@
-name = "scraper"
+name = "image-scraper"
 type = "webpack"
 account_id = "19d84bbef48044df3df3d929f244c9b6"
 workers_dev = true
