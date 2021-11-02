@@ -8,5 +8,5 @@ This is a lightweight api deployed to [Cloudflare Workers](https://workers.cloud
 
 ## Usage
 ```
-curl https://scraper.coding-to-music.workers.dev?url=https://developers.google.com/speed/webp/gallery
+curl https://image-scraper.coding-to-music.workers.dev?url=https://developers.google.com/speed/webp/gallery
 ```
